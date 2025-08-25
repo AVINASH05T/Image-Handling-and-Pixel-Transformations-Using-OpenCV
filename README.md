@@ -1,5 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## NAME : AVINASH T
+## REG NO : 212223230026
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
