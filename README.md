@@ -225,11 +225,11 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
-- 
-- 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
-- 
-- <img width="547" height="412" alt="image" src="https://github.com/user-attachments/assets/cc7463a8-b03b-49c5-83b8-9088a53ab76d" />
+**i)** Read and Display an Image.
+
+1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+
+<img width="547" height="412" alt="image" src="https://github.com/user-attachments/assets/cc7463a8-b03b-49c5-83b8-9088a53ab76d" />
 
 2.Save image as PNG and display:
 
@@ -243,28 +243,28 @@ plt.show()
 
 <img width="403" height="416" alt="image" src="https://github.com/user-attachments/assets/ef267ab4-70ba-41bd-a651-f4e6c19aa768" />
 
-.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
 
 <img width="742" height="372" alt="image" src="https://github.com/user-attachments/assets/7dca5512-e882-4cbc-9deb-8cb4ab58374d" />
 
 <img width="686" height="364" alt="image" src="https://github.com/user-attachments/assets/c25f30dc-b453-43f1-b7bf-32f41a69c0b0" />
 
-- **ii)** Adjust Image Brightness.
-- 
-- Create brighter and darker images and display:
-- 
-- <img width="841" height="233" alt="image" src="https://github.com/user-attachments/assets/972d26dd-a3b7-4362-81e8-640ae7cfe23c" />
+**ii)** Adjust Image Brightness.
 
-- **iii)** Modify Image Contrast.
-- 
-- Modify contrast using scaling factors 1.1 and 1.2:
-- 
-- <img width="865" height="229" alt="image" src="https://github.com/user-attachments/assets/7ef6622f-c0ba-41c1-8f75-006100b26be7" />
+Create brighter and darker images and display:
+ 
+<img width="841" height="233" alt="image" src="https://github.com/user-attachments/assets/972d26dd-a3b7-4362-81e8-640ae7cfe23c" />
+
+**iii)** Modify Image Contrast.
+ 
+Modify contrast using scaling factors 1.1 and 1.2:
+ 
+<img width="865" height="229" alt="image" src="https://github.com/user-attachments/assets/7ef6622f-c0ba-41c1-8f75-006100b26be7" />
   
-- **iv)** Generate Third Image Using Bitwise Operations.
-- 
-- 1.Split 'Boy.jpg' into B, G, R components and display:
-- 
+**iv)** Generate Third Image Using Bitwise Operations.
+
+1.Split 'Boy.jpg' into B, G, R components and display:
+
 <img width="861" height="230" alt="image" src="https://github.com/user-attachments/assets/6755ef3c-21e4-4387-97ea-8bae4a46b947" />
 
 2.Merge the R, G, B channels and display:
